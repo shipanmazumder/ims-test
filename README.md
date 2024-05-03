@@ -1,9 +1,16 @@
 ## About 
 This is a test project
 
-http://127.0.0.1:8000/product
+## Installation Instruction
+   First Download or Clone this project<br/>
+    copy .env.eaxmple to env file <br/>
+    Run: composer install<br/>
+    Run: php artisan migrate
+    ==========================================
 
-##Some ScreenShot
+Project URL: http://127.0.0.1:8000/product
+
+## Some ScreenShot
     ![Product Add](./images/product.png)
     ![Product List](./images/allproduct.png)
     ![Full ](./images/full.png)

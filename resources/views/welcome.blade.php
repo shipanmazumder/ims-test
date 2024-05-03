@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Inventory</title>
+    <title>Inventory</title>
 </head>
-<body>
+    <body>
 
-<h1>Wellcome to Inventroy</h1>
-<p>You should go product page</p>
+    <h1>Wellcome to Inventroy</h1>
+    <p>You should go product page</p>
 
-</body>
+    </body>
 </html>

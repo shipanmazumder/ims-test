@@ -185,6 +185,13 @@
                     _token: '{{ csrf_token() }}',
                 },
                 success: function(response) {
+                    $.toast({
+                        heading: 'Deleted!',
+                        text: 'Your product delete successfully.',
+                        position: 'top-right',
+                        icon: 'success',
+                        stack: false
+                    })
                     $row.remove();
                 },
                 error: function(response) {
